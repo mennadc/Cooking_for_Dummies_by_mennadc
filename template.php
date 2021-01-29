@@ -10,14 +10,14 @@ if (!defined('CONST_INCLUDE'))
 	<meta charset="utf-8">
 	<title>Cooking for Dummies</title>
 
-	<!-- Jquery JS -->
+	<!-- JQuery JS -->
 	<link rel="stylesheet" href="./layout/css/jquery-css/jquery-ui.css">
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="./layout/css/bootstrap-css/bootstrap.min.css">
 
 	<!-- Fontawesome icons -->
 	<script src="https://kit.fontawesome.com/4088dbf714.js" crossorigin="anonymous"></script>
-	<!-- Jquery JS -->
+	<!-- JQuery JS -->
 	<script src="./layout/js/jquery-js/jquery-3.5.1.slim.min.js"></script>
 	<script src="./layout/js/jquery-js/jquery-3.5.1.min.js"></script>
 	<script src="./layout/js/jquery-js/jquery-ui.min.js"></script>
