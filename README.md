@@ -15,7 +15,7 @@ recipes achievable by all.
 This project, following the Model View Controller (MVC) architecture and modular programming, was created with:
 * PHP: 7.4.3
 * MySQL: 8.0.22
-* Boostrap: 5.0.0-beta1
+* Bootstrap: 5.0.0-beta1
 * JQuery: 3.5.1
 
 ## Launch
